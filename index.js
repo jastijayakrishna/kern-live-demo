@@ -1,3 +1,8 @@
+/**
+ * Returns true if the given value is a finite number or a numeric string.
+ * @param {*} num value to test
+ * @returns {boolean} whether num is a number
+ */
 /*!
  * is-number <https://github.com/jonschlinkert/is-number>
  *
