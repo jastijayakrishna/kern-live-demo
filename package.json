@@ -1,0 +1,9 @@
+{
+  "name": "kern-live-demo",
+  "version": "1.0.0",
+  "description": "Kern admission-control live demo",
+  "author": "Jaya Krishna J",
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": { "test": "node test.js" }
+}
