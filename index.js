@@ -4,3 +4,5 @@ module.exports = function clamp(value, min, max) {
   if (value > max) return max;
   return value;
 };
+
+// harmless doc edit on a normal branch
